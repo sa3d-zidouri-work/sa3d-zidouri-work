@@ -2,7 +2,7 @@
 
 **Mobile & Full-Stack Engineer · Application Security | B.S. Computer Engineering, KFUPM ('26)**
 
-I build production mobile and full-stack software — Flutter apps on Node/AWS backends, wired into enterprise systems and live payment gateways — with a penetration-testing background that keeps it secure by default.
+I build production mobile and full-stack software Flutter apps on Node/AWS backends, wired into enterprise systems and live payment gateways with a penetration-testing background that keeps it secure by default.
 
 ## Tech stack
 
@@ -32,8 +32,8 @@ I build production mobile and full-stack software — Flutter apps on Node/AWS b
 
 | Project | Description | Stack |
 |---|---|---|
-| **Al Rugaib Superapp** | Retail Flutter superapp for 300+ staff across 15 branches — quotations synced to Microsoft Dynamics 365, live Tabby checkout, a catalog engine serving ~160k SKUs in under 3s, and role-based access mapped to the company hierarchy | Flutter · Dynamics 365 · Tabby |
-| **Journey Joy (Rifqah)** | Ride-hailing app on the App Store and Play Store — Paymob and Apple Pay payments over a hardened auth flow | Flutter · Node/Express · Paymob |
+| **Al Rugaib Superapp** | Retail Flutter superapp for 300+ staff across 15 branches quotations synced to Microsoft Dynamics 365, live Tabby checkout, a catalog engine serving ~160k SKUs in under 3s, and role-based access mapped to the company hierarchy | Flutter · Dynamics 365 · Tabby |
+| **Journey Joy (Rifqah)** | Ride-hailing app on the App Store and Play Store Paymob and Apple Pay payments over a hardened auth flow | Flutter · Node/Express · Paymob |
 
 ## Certifications
 
